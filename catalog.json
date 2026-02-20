@@ -1,4 +1,10 @@
-  {
+{
+  "metadata": {
+    "email": "23f2003833@ds.study.iitm.ac.in",
+    "version": "b9484518"
+  },
+  "products": [
+    {
     "id": "prod-b9484518-001",
     "name": "Standard Item 1",
     "category": "books",
@@ -174,3 +180,11 @@
     "stock": 178,
     "rating": 3
   }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 2,
+      "inventoryValue": 17177.69
+    }
+  }
+}
